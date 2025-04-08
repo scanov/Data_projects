@@ -1,4 +1,4 @@
-Projects for my intro to AI and Machine learning university courses, they contain:
+Projects for my intro to AI and Machine learning university courses, they are:
 # Microproject 2:
 Pyschiatric symptoms and diagnosis dataset, applied dimensionality reduction techniques(PCA),
 cluster analysis with elbow curve, gap statistic, silhoutte analysis and dendrograms to find
