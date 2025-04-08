@@ -19,7 +19,7 @@ scratch and transfer learning with the VGG16 model, obtaining a 95% accuracy on 
 84% in test.
 # ML project
 Drinking and smoking test predictions in korean national health insurance dataset, the project
-consisted solving the mulitclass and multiobjective classification problem on finding drinking
+consisted solving the multiclass and multiobjective classification problem on finding drinking
 state (Y/N) and smoking state (drinker, quitted, never) on a relatively big dataset (>1M) rows,
 we optimized the hamming loss using different techniques(XGBoost, random forest, binary multitrees)
 but could only achieve an accuracy of 70%.
